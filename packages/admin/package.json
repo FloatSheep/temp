@@ -48,7 +48,6 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
     "@rematch/core": "2.2.0",
