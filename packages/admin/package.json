@@ -46,9 +46,6 @@
       "last 2 safari version"
     ]
   },
-  "publishConfig": {
-    "access": "public",
-  },
   "devDependencies": {
     "@rematch/core": "2.2.0",
     "base-icon": "2.2.1",
