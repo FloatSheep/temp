@@ -77,3 +77,6 @@ You can contact me through [discussions](https://github.com/walinejs/waline/disc
 ## License
 
 [GPL-2.0](https://github.com/lizheming/Waline/blob/main/LICENSE)
+
+6
+
