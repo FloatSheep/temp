@@ -46,7 +46,7 @@
       "last 2 safari version"
     ]
   },
-    "publishConfig": {
+  "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
